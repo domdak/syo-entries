@@ -9,3 +9,19 @@ h1 {
 .my-5, .mt-5 {
   margin-top: 0px !important
 }
+
+.iframe-wrap {
+  background: url('loading.gif') center center no-repeat;
+  background-size: 50px 50px;
+  padding: 0;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.iframe-wrap iframe {
+  display: block;
+  margin: 0 auto;
+}
