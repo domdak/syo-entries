@@ -5,3 +5,7 @@
 h1 {
   display: none
 }
+
+.my-5, .mt-5 {
+  margin-top: 0px !important
+}
