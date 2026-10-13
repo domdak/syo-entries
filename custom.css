@@ -18,10 +18,13 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
 }
 
 .loading iframe {
   display: block;
   margin: 0 auto;
+}
+
+.top {
+  width: 100%;
 }
