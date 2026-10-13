@@ -10,7 +10,7 @@ h1 {
   margin-top: 0px !important
 }
 
-.iframe-wrap {
+.loading {
   background: url('loading.gif') center center no-repeat;
   background-size: 50px 50px;
   padding: 0;
@@ -21,7 +21,7 @@ h1 {
   width: 100%;
 }
 
-.iframe-wrap iframe {
+.loading iframe {
   display: block;
   margin: 0 auto;
 }
