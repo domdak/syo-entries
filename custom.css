@@ -7,7 +7,13 @@ h1 {
 }
 
 .my-5, .mt-5 {
-  margin-top: 0px !important
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+.pr-3, .px-3 {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
 }
 
 .loading {
